@@ -1,22 +1,22 @@
 # coding: utf-8
 
-# Decompiled By Dare Devil
+# Decompiled By Dare Ayaan
 
-# Youtube : https://youtu.be/dkRKY6J-CgY
+# Youtube :Ayaan
 
 # uncompyle6 version 
 
-# Original written By Ali Abbas
+# Original written By Ayaan Anni
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 
-__author__ = 'Ali'
+__author__ = 'Ayaan'
 
-__copyright = 'All rights reserved . Copyright  Abdul Mateen'
+__copyright = 'Ayaan rights reserved . Copyright  Abdul Mateen'
 
-CorrectUsername = 'Dare'
+CorrectUsername = 'ayaan'
 
-CorrectPassword = 'Devil'
+CorrectPassword = 'Ayaan'
 
 os.system('clear')
 
@@ -157,26 +157,21 @@ def tik():
  ##### LOGO ##### 
 
 logo = """
-
- ____    __    ____  ____    ____  ____  _  _  ____  __   
-
-(  _ \  /__\  (  _ \( ___)  (  _ \( ___)( \/ )(_  _)(  )  
-
- )(_) )/(__)\  )   / )__)    )(_) ))__)  \  /  _)(_  )(__ 
-
-(____/(__)(__)(_)\_)(____)  (____/(____)  \/  (____)(____)
+╔━━❖❖🖤❖❖━━╗
+⭕Ayaan⭕
+╚━━❖❖🖤❖❖━━╝
 
 /CHANNAL SUBSCRIBE NA KIA TO OK ID NA AYA GI <::::::::::::::::[]
 
  ______________________________________________
 
- Author   :            Dare-Devil
+ Author   :            Ayaan
 
- Facebook :          Husnain143
+ Facebook :          Ayaan Anni
 
- GitHub   :        Dare-Devil.git 
+ GitHub   :       Ayaan786 
 
- Version  :              0.2
+ Version  :              15.6
 
  ______________________________________________
 
